@@ -5,7 +5,7 @@
 ### Description
 
 In this project, I trained an a neural network using LSTM and CNN to create caption to different images.
-[![](https://github.com/pecia6/Image_Captioning/raw/master/images/encoder-decoder.png)]
+![](https://github.com/pecia6/Image_Captioning/raw/master/images/encoder-decoder.png)
 ### Install
 
 This project requires  **Python 3.x**  and the following Python libraries installed:
